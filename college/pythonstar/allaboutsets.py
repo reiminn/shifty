@@ -13,3 +13,11 @@ st.update(['item5','item6','item7'])
 #st2.difference(st1) # set() : st2 - st1
 #st2.symmetric_difference(st1)
 ###is disjoint
+
+#Check the python version you are using
+#set mei thodi si problem
+#string methods, slicing, string formating, fstringss
+#unpacking lists using * like a,b,c, *d, e = [list], removing elements del vs pop , count,
+#tuple and list slicing
+#dictionary accessing items, deleting items
+#shorthand for conditionals: code if condition else code
